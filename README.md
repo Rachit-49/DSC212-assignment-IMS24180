@@ -22,7 +22,7 @@ to partition the graph until no further modularity gain is possible (λ₁ ≤ 0
 ### **Outputs**
 -Colored community plots after each recursive split
 
--Final community structure (usually ~4 communities)
+-Final community structure (4 communities)
 
 -Modularity value Q of the final partition
 
